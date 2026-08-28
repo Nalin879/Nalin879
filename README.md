@@ -69,14 +69,6 @@ I design and build resilient, production-ready AI systems;specializing in agenti
 
 ---
 
-### 📈 Activity
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nalin879&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F0F6FC&area=true&hide_border=true" width="100%" alt="Nalinraj's GitHub Activity Graph" />
-</p>
-
----
-
 <p align="center">
   <sub>Designed with simplicity. Feel free to reach out via <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">LinkedIn</a>.</sub>
 </p>
