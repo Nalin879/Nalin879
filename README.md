@@ -2,7 +2,7 @@
 
 Software Engineer focused on building production-grade **Generative AI systems**, **Agentic RAG**, and **scalable cloud infrastructure**.
 
-[Portfolio](https://nalin879.github.io/legendary-journey/) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE) · [Email](mailto:YOUR_EMAIL@example.com)
+[Portfolio](https://nalin879.github.io/legendary-journey/) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE) · [Email](mailto:rajnalin.9626@gmail.com)
 
 ---
 
@@ -70,6 +70,10 @@ I design and build resilient, production-ready AI systems;specializing in agenti
 ---
 
 ### 📈 Activity
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nalin879&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F0F6FC&area=true&hide_border=true" width="100%" alt="Nalinraj's GitHub Activity Graph" />
+</p>
 
 ---
 
