@@ -2,7 +2,7 @@
 
 Software Engineer focused on building production-grade **Generative AI systems**, **Agentic RAG**, and **scalable cloud infrastructure**.
 
-[Portfolio](https://nalin879.github.io/legendary-journey/) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE) · [Email](mailto:rajnalin.9626@gmail.com)
+[Portfolio](https://nalin879.github.io/legendary-journey/) · [LinkedIn](https://www.linkedin.com/in/nalin897/) · [Email](mailto:rajnalin.9626@gmail.com)
 
 ---
 
